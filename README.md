@@ -11,7 +11,6 @@ I'm always down for a good collab and learning new stuff. So feel free to hit me
 <br> 
 * 🖥️  See my portfolio at [Github Pages](http://https://aditya-ramachandran.github.io/)
 * ✉️  You can contact me at [adityaramachandran25@gmail.com](mailto:adityaramachandran25@gmail.com)
-* ⚡  I am a Kaggle 2X Expert
 
 ### Skills
 
