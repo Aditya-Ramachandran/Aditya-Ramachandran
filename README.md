@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Exploring the realms of Machine Learning and Data Science
 ---------------------------------------------------------
 
-- Hey there! I'm a final year student pursuing a degree in CS + Data Science. I'm totally into Machine Learning, Deep Learning, and Data Visualization, and love checking out the latest and greatest in these areas. 
-- I'm all about working on projects that use data to solve problems that matter. When it comes to coding and problem-solving, I'm in my element.
-- I'm always down for a good collab and learning new stuff. So feel free to hit me up!
+ Hey there! I'm a final year student pursuing a degree in CS + Data Science. I'm totally into Machine Learning, Deep Learning, and Data Visualization, and love checking out the latest and greatest in these areas. <br>
+I'm all about working on projects that use data to solve problems that matter. When it comes to coding and problem-solving, I'm in my element. <br>
+I'm always down for a good collab and learning new stuff. So feel free to hit me up!
 
 * 🖥️  See my portfolio at [Github Pages](http://https://aditya-ramachandran.github.io/)
 * ✉️  You can contact me at [adityaramachandran25@gmail.com](mailto:adityaramachandran25@gmail.com)
@@ -28,6 +28,7 @@ Exploring the realms of Machine Learning and Data Science
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Aditya-Ramachandran" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aditya-ramachandran-27b2ab24a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@adityaramachandran25" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
