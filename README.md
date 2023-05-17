@@ -9,7 +9,7 @@ I'm all about working on projects that use data to solve problems that matter. W
 I'm always down for a good collab and learning new stuff. So feel free to hit me up!
 <br>
 <br> 
-* 🖥️  See my portfolio at [Github Pages](http://https://aditya-ramachandran.github.io/)
+* 🖥️  See my portfolio at [Github Pages](https://https://aditya-ramachandran.github.io/)
 * ✉️  You can contact me at [adityaramachandran25@gmail.com](mailto:adityaramachandran25@gmail.com)
 
 ### Skills
