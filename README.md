@@ -60,6 +60,8 @@
 <br>
 <h3>Recent Medium Blogs</h3>
 
+I also write sometimes... Here are my two latest blog posts 
+
 |                                                                                   |                                                                                   |
 |-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 | [![Recent Article 0](https://github-readme-medium-recent-article.vercel.app/medium/@adityaramachandran25/0)](https://github-readme-medium-recent-article.vercel.app/medium/@adityaramachandran25/0) | [![Recent Article 1](https://github-readme-medium-recent-article.vercel.app/medium/@adityaramachandran25/1)](https://github-readme-medium-recent-article.vercel.app/medium/@adityaramachandran25/1) |
