@@ -1,61 +1,80 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aditya Ramachandran
-===========================================================================================================================================
+<h2 align="center">Welcome to My GitHub Profile</h2>
 
-Exploring the realms of Machine Learning and Data Science
----------------------------------------------------------
+###
 
-Hey there! I'm a final year student pursuing a degree in CS + Data Science. I'm totally into Machine Learning, Deep Learning, and Data Visualization, and love checking out the latest and greatest in these areas. <br>
-I'm all about working on projects that use data to solve problems that matter. When it comes to coding and problem-solving, I'm in my element. <br>
-I'm always down for a good collab and learning new stuff. So feel free to hit me up!
-<br>
-<br> 
-* 🖥️  See my portfolio at [Github Pages](https://aditya-ramachandran.github.io/)
-* ✉️  You can contact me at [adityaramachandran25@gmail.com](mailto:adityaramachandran25@gmail.com)
+<p align="left">I'm passionate about building robust systems, with experience in both machine learning and backend development. <br><br>While I've explored data analysis and model training, my focus now lies in crafting scalable backend solutions, from RESTful APIs to database optimization. <br><br>My toolbox includes Python, Java, Spring Boot, MySQL, and machine learning libraries . <br><br>You'll find a variety of projects reflecting my journey and interests, from machine learning experiments to backend development. I'm always eager to learn and collaborate on exciting projects. <br><br>Let's connect and build something amazing together!</p>
 
-### Skills
+###
 
-<p align="left">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="40" alt="atom logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" /></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas" /></a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" alt="NumPy" /></a>
-<a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge" alt="Plotly" /></a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge" alt="Matplotlib" /></a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Seaborn-3776AB?logo=seaborn&logoColor=white&style=for-the-badge" alt="Seaborn" /></a> 
- <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" alt="scikit-learn" /></a>
-<a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=for-the-badge" alt="Keras" /></a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow" /></a> 
-<a href="https://restfulapi.net/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-REST%20API-2E2E2E?logo=json&logoColor=white&style=for-the-badge" alt="REST API" /></a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge" alt="Flask" /></a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" /></a>
-<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-SQL-CC2927?logo=postgresql&logoColor=white&style=for-the-badge" alt="SQL" /></a>
-<img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" alt="Heroku" /></a>
- <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=google-colab&logoColor=white&style=for-the-badge" alt="Google Colab" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="VS Code" /></a>
-<br> <br>
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Ramachandran&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Aditya-Ramachandran&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
+###
 
+<div align="left">
+  <a href="mailto:adityaramachandran25@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-ramachandran-27b2ab24a/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@adityaramachandran25" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="25" alt="medium logo"  />
+  </a>
+</div>
 
+###
 
+<br clear="both">
 
-</p>
+<img src="https://raw.githubusercontent.com/Aditya-Ramachandran/Aditya-Ramachandran/output/snake.svg" alt="Snake animation" />
 
-### Socials
+###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Aditya-Ramachandran/count.svg?"  />
+</div>
 
-<p align="left"><a href="https://www.linkedin.com/in/aditya-ramachandran-27b2ab24a/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
-<a href="https://www.kaggle.com/adityaramachandran27" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge" alt="Kaggle" /></a>
-<a href="https:///www.medium.com/@adityaramachandran25" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" alt="Medium" /></a></p>
-
-
-### Badges
-
-<b>GitHub Stats</b>
-
-<!-- <a href="http://www.github.com/Aditya-Ramachandran"><img src="https://github-readme-stats.vercel.app/api?username=Aditya-Ramachandran&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="Aditya-Ramachandran's GitHub stats" /></a> -->
-
-<a href="http://www.github.com/Aditya-Ramachandran"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Ramachandran&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
+###
