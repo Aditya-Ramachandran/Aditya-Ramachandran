@@ -1,11 +1,20 @@
-<h2 align="center">Welcome to My GitHub Profile</h2>
+<h2 align="center">Welcome to My GitHub Profile 🚀</h2>
 
 ###
 
-<p align="left">I'm passionate about building robust systems, with experience in both machine learning and backend development. <br><br>While I've explored data analysis and model training, my focus now lies in crafting scalable backend solutions, from RESTful APIs to database optimization. <br><br>My toolbox includes Python, Java, Spring Boot, MySQL, and machine learning libraries . <br><br>You'll find a variety of projects reflecting my journey and interests, from machine learning experiments to backend development. I'm always eager to learn and collaborate on exciting projects. <br><br>Let's connect and build something amazing together!</p>
+<p align="left">
+I'm a backend developer passionate about building scalable, high-performance systems. My work revolves around crafting robust solutions using Java, Spring Boot, Elasticsearch, Kafka, and Redis. Whether it's designing efficient RESTful APIs, optimizing databases, or ensuring real-time data processing, I love tackling complex challenges. <br><br>
+
+Before diving deep into backend development, I explored the world of machine learning and data analysis. While my focus has shifted, I still enjoy experimenting with new technologies and solving interesting problems. <br><br>
+
+Beyond coding, I write tech blogs in my free time, sharing insights on software development, system design, and emerging technologies. I believe in continuous learning and love exchanging ideas with fellow developers. <br><br>
+
+Feel free to explore my projects, and let's connect to build something amazing together! 🚀
+</p>
 
 ###
-<br> 
+<br>
+ 
 <h3>Skills</h3>
 
 <div align="left">
