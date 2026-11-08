@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Aditya Ramachandran — software built around data</title>
+  <desc id="desc">An animated schematic shows data moving through ingest, storage and retrieval.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0d18"/>
+      <stop offset="0.55" stop-color="#10172a"/>
+      <stop offset="1" stop-color="#071719"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="0.5" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#18223a" stop-opacity="0.86"/>
+      <stop offset="1" stop-color="#0b1325" stop-opacity="0.7"/>
+    </linearGradient>
+    <radialGradient id="violet-haze">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cyan-haze">
+      <stop offset="0" stop-color="#06b6d4" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#06b6d4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity="0.05"/>
+    </pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <path id="main-flow" d="M640 150 H1136"/>
+  </defs>
+
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <circle cx="85" cy="54" r="205" fill="url(#violet-haze)"/>
+  <circle cx="1080" cy="180" r="230" fill="url(#cyan-haze)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="298" rx="23" fill="none" stroke="url(#accent)" stroke-opacity="0.55"/>
+
+  <!-- Identity: proportional type keeps the headline natural and readable. -->
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="64" y="65" fill="#c4b5fd" font-size="13" font-weight="600" letter-spacing="3">ADITYA RAMACHANDRAN</text>
+    <text x="62" y="131" fill="#f8fafc" font-size="40" font-weight="700" letter-spacing="-1.1">I build software around data.</text>
+    <text x="64" y="178" fill="#b8c2d8" font-size="17">Backend systems · database internals · practical AI</text>
+    <text x="64" y="225" fill="#718096" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">from first event → to useful answer</text>
+  </g>
+
+  <!-- A light architectural schematic rather than a literal database/AI illustration. -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <path d="M640 150H1136" fill="none" stroke="url(#accent)" stroke-width="1.5" stroke-opacity="0.34" stroke-dasharray="4 8">
+      <animate attributeName="stroke-dashoffset" values="24;0" dur="3s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- 01 / ingest -->
+    <g transform="translate(654 79)">
+      <rect width="126" height="142" rx="16" fill="url(#panel)" stroke="#8b5cf6" stroke-opacity="0.62"/>
+      <text x="16" y="24" fill="#8b5cf6" font-size="10" letter-spacing="2">01</text>
+      <text x="16" y="123" fill="#aab4c8" font-size="10" letter-spacing="1.8">INGEST</text>
+      <g fill="none" stroke-linecap="round" stroke-width="1.7">
+        <path d="M24 48H49L64 63H100" stroke="#a78bfa"/>
+        <path d="M24 66H45L59 72H100" stroke="#22d3ee"/>
+        <path d="M24 84H49L64 76H100" stroke="#34d399"/>
+      </g>
+      <g>
+        <circle cx="24" cy="48" r="4" fill="#a78bfa"/>
+        <circle cx="24" cy="66" r="4" fill="#22d3ee"/>
+        <circle cx="24" cy="84" r="4" fill="#34d399"/>
+        <circle cx="100" cy="72" r="6" fill="#0f172a" stroke="#67e8f9" stroke-width="2"/>
+      </g>
+    </g>
+
+    <!-- 02 / store: offset pages suggest an actual storage engine. -->
+    <g transform="translate(804 61)">
+      <rect width="150" height="178" rx="16" fill="url(#panel)" stroke="#22d3ee" stroke-opacity="0.66"/>
+      <text x="16" y="24" fill="#22d3ee" font-size="10" letter-spacing="2">02</text>
+      <text x="16" y="159" fill="#aab4c8" font-size="10" letter-spacing="1.8">STORE</text>
+      <g fill="#111b31" stroke-width="1.5">
+        <rect x="28" y="44" width="92" height="22" rx="5" stroke="#8b5cf6"/>
+        <rect x="34" y="70" width="92" height="22" rx="5" stroke="#22d3ee"/>
+        <rect x="28" y="96" width="92" height="22" rx="5" stroke="#34d399"/>
+      </g>
+      <g fill="#64748b">
+        <circle cx="42" cy="55" r="2"/><circle cx="49" cy="55" r="2"/>
+        <circle cx="48" cy="81" r="2"/><circle cx="55" cy="81" r="2"/>
+        <circle cx="42" cy="107" r="2"/><circle cx="49" cy="107" r="2"/>
+      </g>
+      <g stroke="#64748b" stroke-width="1">
+        <path d="M62 55H106M68 81H112M62 107H106"/>
+      </g>
+    </g>
+
+    <!-- 03 / retrieve: a query fans into ranked results. -->
+    <g transform="translate(978 79)">
+      <rect width="158" height="142" rx="16" fill="url(#panel)" stroke="#34d399" stroke-opacity="0.64"/>
+      <text x="16" y="24" fill="#34d399" font-size="10" letter-spacing="2">03</text>
+      <text x="16" y="123" fill="#aab4c8" font-size="10" letter-spacing="1.8">RETRIEVE</text>
+      <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="48" cy="69" r="18" stroke="#67e8f9" stroke-width="2"/>
+        <path d="M61 82L73 94" stroke="#67e8f9" stroke-width="2"/>
+        <path d="M80 52H132M80 69H121M80 86H110" stroke="#64748b" stroke-width="2"/>
+      </g>
+      <circle cx="132" cy="52" r="3" fill="#a78bfa"/>
+      <circle cx="121" cy="69" r="3" fill="#22d3ee"/>
+      <circle cx="110" cy="86" r="3" fill="#34d399"/>
+    </g>
+
+    <!-- Packets loop across the complete data path. -->
+    <circle r="4.5" fill="#f8fafc" filter="url(#glow)">
+      <animateMotion dur="5.2s" repeatCount="indefinite"><mpath href="#main-flow"/></animateMotion>
+    </circle>
+    <circle r="3.5" fill="#22d3ee" filter="url(#glow)">
+      <animateMotion dur="5.2s" begin="-2.6s" repeatCount="indefinite"><mpath href="#main-flow"/></animateMotion>
+    </circle>
+  </g>
+
+  <rect x="64" y="276" width="1072" height="2" rx="1" fill="url(#accent)" opacity="0.75"/>
+  <circle cx="64" cy="277" r="3" fill="#8b5cf6"/>
+  <circle cx="1136" cy="277" r="3" fill="#34d399"/>
+</svg>

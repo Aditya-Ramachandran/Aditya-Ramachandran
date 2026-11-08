@@ -1,49 +1,94 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Aditya Ramachandran — systems, data and useful AI">
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2DD4BF,100:A78BFA&height=160&section=header&text=Aditya%20Ramachandran&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20Distributed%20Systems%20%C2%B7%20Observability&descSize=15&descAlignY=58" width="100%"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aditya-Ramachandran&label=profile+visits&color=7C3AED&style=flat-square" alt="Profile visit counter">
+  <a href="mailto:adityaramachandran25@gmail.com"><img src="https://img.shields.io/badge/open_to-interesting_opportunities-059669?style=flat-square" alt="Open to interesting opportunities"></a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&pause=2000&color=A78BFA&center=true&vCenter=true&width=560&height=30&lines=Designing+backend+systems+that+scale;Building+observability+that+actually+helps;Currently+learning+Rust" />
+## 00 / hello
 
+I'm Aditya—a backend engineer who likes following an abstraction until it stops being magic.
+
+That curiosity currently leads in two directions: down into **database internals**, and sideways into **AI-powered tools** such as Signal. I build things to understand them, keep notes that make perfect sense at midnight, and have a dangerous relationship with the phrase *“this should be a small project.”*
+
+> Good systems answer questions. Great systems also explain what happened when the answer is wrong.
+
+## 01 / build queue
+
+| Project | What pulled me in | Current rabbit hole |
+|:--|:--|:--|
+| **tinyTSDB** | Learning time-series storage from the inside | ingestion · pages · indexes · compression · retention |
+| **Signal** | Making AI useful beyond a chat window | retrieval · context · structured output · evaluation |
+| **Small tools** | Scratching very specific technical itches | CLIs · automations · “temporary” scripts that become permanent |
+
+There is no grand roadmap here. Make the idea, test the assumption, keep the interesting lessons.
+
+## 02 / in production
+
+At **Comviva**, I work on the Ngage platform—building and operating backend systems with **Java, Spring Boot, and Kafka**. My work spans service design, real-time data pipelines, platform reliability, and the unglamorous but essential job of making production understandable when it misbehaves.
+
+I've also worked on observability and AIOps with **Grafana and Prometheus**, incident response with **PagerDuty and Statuspage**, and evaluating **ClickHouse** for analytical workloads. Shipping the feature is good; knowing how it behaves under pressure is better.
+
+## 03 / things I reach for
+
+- **Languages & core:** Java · Python · SQL · Bash
+- **Backend:** Spring Boot · REST APIs · event-driven systems · distributed systems
+- **Data:** Kafka · Redis · MySQL · PostgreSQL · Elasticsearch · ClickHouse
+- **AI experiments:** LLM APIs · embeddings · retrieval · structured outputs · evals
+- **Observability:** Grafana · Prometheus · PagerDuty · Statuspage
+- **Infrastructure:** Docker · Kubernetes · Linux · Git · GitHub Actions
+- **To debug reality:** logs · metrics · traces · query plans · thread dumps · an unreasonable number of debug statements
+
+I care more about knowing *why* a tool belongs in the system than collecting logos for it.
+
+## 04 / off the clock
+
+- 🎧 Linkin Park has probably helped me fix more bugs than rubber-duck debugging has.
+- 📷 I occasionally put the keyboard down and pick up a camera. Photography and debugging are surprisingly similar: the interesting detail is usually just outside the frame.
+- 📚 My reading list grows at a much healthier rate than my finished-books list.
+- 🤖 I started out exploring machine learning and data analysis; now AI has pulled me back in through the builder's entrance.
+- 📺 There is usually a new show in progress—or an old one being rewatched while I pretend it is background noise.
+
+## 05 / bits worth caching
+
+- A B-tree can find one item among millions with only a handful of page reads. High fan-out keeps the tree surprisingly short.
+- Some time-series databases compress timestamps by storing the *difference between differences* instead of every full timestamp.
+- An index is a trade: faster reads in exchange for extra storage and more work on every write. There is no free `CREATE INDEX`.
+- Embeddings turn meaning into geometry: related ideas end up near one another in a space with far too many dimensions to draw.
+- An AI demo can be delightfully unpredictable; an AI product needs evaluations, guardrails, and predictable behavior around the model.
+
+## 06 / opinions, weakly held
+
+- “Boring technology” is usually a compliment.
+- Observability is part of the product, even if customers never see it.
+- The fastest query is the one you realise you do not need to run.
+- AI should be allowed to say “I don't know”—and the surrounding software should expect it to.
+- A side project is finished when it taught you what you came to learn, not when it has every feature.
+
+<!-- rotating-meme:start -->
+<div align="center" data-meme-id="9t9WIiEDUWxiYRWDBz">
+  <a href="https://giphy.com/gifs/9t9WIiEDUWxiYRWDBz">
+    <img src="https://media.giphy.com/media/9t9WIiEDUWxiYRWDBz/giphy.gif" width="520" alt="Rotating developer meme">
+  </a>
+  <br>
+  <sub>Today's build mood. Shuffled daily.</sub>
 </div>
+<!-- rotating-meme:end -->
 
-### About
+## 07 / notes & coordinates
 
-I work on backend systems and platform reliability — designing services in Java and Spring Boot, building data pipelines with Kafka, and managing observability with Grafana and Prometheus.
+I write occasionally about backend engineering, system design, and lessons that were more memorable than they needed to be.
 
-Right now I'm learning **Rust**, mostly by rewriting performance-critical pieces of existing systems. I'm also exploring **ClickHouse** as an alternative to Elasticsearch for large-scale workloads.
+I'm also quietly open to interesting opportunities around backend systems, data, and applied AI. If that sounds like what you're building, I'd be glad to talk.
 
-I write occasionally → **[Medium](https://medium.com/@adityaramachandran25)**
+**[Medium](https://medium.com/@adityaramachandran25)** · **[Portfolio](https://aditya-ramachandran.github.io/)** · **[LinkedIn](https://www.linkedin.com/in/aditya-ramachandran-27b2ab24a/)** · **[Email](mailto:adityaramachandran25@gmail.com)**
 
-### Tech Stack
+---
 
-<table align="center" border="0" cellpadding="8">
-<tr>
-<td align="center"><sub><b>Backend & Data</b></sub><br><img src="https://skillicons.dev/icons?i=java,spring,kafka,redis,mysql&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><sub><b>Observability</b></sub><br><img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><sub><b>Infra & Learning</b></sub><br><img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,rust,python&theme=dark" /></td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aditya-Ramachandran/Aditya-Ramachandran/output/snake.svg" alt="A snake eating Aditya's GitHub contributions">
+</p>
 
-### Snapshot
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Ramachandran&show_icons=true&hide_border=true&hide_title=true&bg_color=0D1117&title_color=A78BFA&icon_color=2DD4BF&text_color=C9D1D9" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Ramachandran&layout=donut&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&hide_title=true" height="150" />
-</div>
-
-### Connect
-
-<div align="center">
-<a href="mailto:adityaramachandran25@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=2DD4BF" /></a>
-<a href="https://www.linkedin.com/in/aditya-ramachandran-27b2ab24a/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
-<a href="https://medium.com/@adityaramachandran25"><img src="https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=A78BFA" /></a>
-<a href="https://aditya-ramachandran.github.io/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=2DD4BF" /></a>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:2DD4BF,100:38BDF8&height=80&section=footer" width="100%"/>
-
-<div align="center"><sub><img src="https://profile-counter.glitch.me/Aditya-Ramachandran/count.svg?" height="20"/></sub></div>
+<p align="center"><sub>The snake is well-fed. The side-project list is not.</sub></p>

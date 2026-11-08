@@ -1,0 +1,39 @@
+name: Rotate profile meme
+
+on:
+  schedule:
+    # Daily at 08:47 IST. The odd minute avoids the busiest scheduler window.
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rotate-profile-meme
+  cancel-in-progress: true
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check out the profile repository
+        uses: actions/checkout@v4
+
+      - name: Pick a different meme
+        run: python .github/scripts/rotate_meme.py
+
+      - name: Commit the new meme
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No meme change to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: rotate profile meme"
+          git push
