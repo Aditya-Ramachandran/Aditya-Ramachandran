@@ -68,9 +68,9 @@ I care more about knowing *why* a tool belongs in the system than collecting log
 - A side project is finished when it taught you what you came to learn, not when it has every feature.
 
 <!-- rotating-meme:start -->
-<div align="center" data-meme-id="WDJBtnl2cxgReYekEu">
-  <a href="https://giphy.com/gifs/WDJBtnl2cxgReYekEu">
-    <img src="https://media.giphy.com/media/WDJBtnl2cxgReYekEu/giphy.gif" width="520" alt="Rotating developer meme">
+<div align="center" data-meme-id="mTPjPA6SSXgTsnZ1Dh">
+  <a href="https://giphy.com/gifs/mTPjPA6SSXgTsnZ1Dh">
+    <img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="520" alt="Rotating developer meme">
   </a>
   <br>
   <sub>Today's build mood. Shuffled daily.</sub>
